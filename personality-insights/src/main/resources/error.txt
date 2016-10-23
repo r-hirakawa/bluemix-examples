@@ -1,0 +1,2 @@
+重大: POST https://gateway.watsonplatform.net/personality-insights/api/v3/profile?version=2016-10-19, status: 400, error: 単語数 47 が、分析に必要な最小単語数よりも少なくなっています: 100
+単語数 47 が、分析に必要な最小単語数よりも少なくなっています: 100

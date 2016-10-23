@@ -1,0 +1,339 @@
+{
+  "word_count": 174,
+  "word_count_message": "入力されたのは 174 語でした。 統計的に意味のある概算値を計算するためには最低 600 語、1,200 語以上が好ましい語数です",
+  "processed_language": "ja",
+  "personality": [
+    {
+      "trait_id": "big5_openness",
+      "name": "知的好奇心",
+      "category": "personality",
+      "percentile": 0.9105076350304703,
+      "children": [
+        {
+          "trait_id": "facet_adventurousness",
+          "name": "大胆性",
+          "category": "personality",
+          "percentile": 0.8922273446493695
+        },
+        {
+          "trait_id": "facet_artistic_interests",
+          "name": "芸術的関心度",
+          "category": "personality",
+          "percentile": 0.22895969886318251
+        },
+        {
+          "trait_id": "facet_emotionality",
+          "name": "情動性",
+          "category": "personality",
+          "percentile": 0.816475630751448
+        },
+        {
+          "trait_id": "facet_imagination",
+          "name": "想像力",
+          "category": "personality",
+          "percentile": 0.3276847585365573
+        },
+        {
+          "trait_id": "facet_intellect",
+          "name": "思考力",
+          "category": "personality",
+          "percentile": 0.9192986649293328
+        },
+        {
+          "trait_id": "facet_liberalism",
+          "name": "現状打破",
+          "category": "personality",
+          "percentile": 0.5036354825084884
+        }
+      ]
+    },
+    {
+      "trait_id": "big5_conscientiousness",
+      "name": "誠実性",
+      "category": "personality",
+      "percentile": 0.8939984145888786,
+      "children": [
+        {
+          "trait_id": "facet_achievement_striving",
+          "name": "達成努力",
+          "category": "personality",
+          "percentile": 0.8613433696742122
+        },
+        {
+          "trait_id": "facet_cautiousness",
+          "name": "注意深さ",
+          "category": "personality",
+          "percentile": 0.4570597754190453
+        },
+        {
+          "trait_id": "facet_dutifulness",
+          "name": "忠実さ",
+          "category": "personality",
+          "percentile": 0.5472304067012456
+        },
+        {
+          "trait_id": "facet_orderliness",
+          "name": "秩序性",
+          "category": "personality",
+          "percentile": 0.8543857281676391
+        },
+        {
+          "trait_id": "facet_self_discipline",
+          "name": "自制力",
+          "category": "personality",
+          "percentile": 0.406042085791566
+        },
+        {
+          "trait_id": "facet_self_efficacy",
+          "name": "自己効力感",
+          "category": "personality",
+          "percentile": 0.9053759379123124
+        }
+      ]
+    },
+    {
+      "trait_id": "big5_extraversion",
+      "name": "外向性",
+      "category": "personality",
+      "percentile": 0.99,
+      "children": [
+        {
+          "trait_id": "facet_activity_level",
+          "name": "活発度",
+          "category": "personality",
+          "percentile": 0.18800650039619218
+        },
+        {
+          "trait_id": "facet_assertiveness",
+          "name": "自己主張",
+          "category": "personality",
+          "percentile": 0.7612538560814518
+        },
+        {
+          "trait_id": "facet_cheerfulness",
+          "name": "明朗性",
+          "category": "personality",
+          "percentile": 0.5205989602860821
+        },
+        {
+          "trait_id": "facet_excitement_seeking",
+          "name": "刺激希求性",
+          "category": "personality",
+          "percentile": 0.6052599749955775
+        },
+        {
+          "trait_id": "facet_friendliness",
+          "name": "友好性",
+          "category": "personality",
+          "percentile": 0.38577929088980717
+        },
+        {
+          "trait_id": "facet_gregariousness",
+          "name": "社交性",
+          "category": "personality",
+          "percentile": 0.1535709087969627
+        }
+      ]
+    },
+    {
+      "trait_id": "big5_agreeableness",
+      "name": "協調性",
+      "category": "personality",
+      "percentile": 0.8354671241070984,
+      "children": [
+        {
+          "trait_id": "facet_altruism",
+          "name": "利他主義",
+          "category": "personality",
+          "percentile": 0.8137871354115329
+        },
+        {
+          "trait_id": "facet_cooperation",
+          "name": "協働性",
+          "category": "personality",
+          "percentile": 0.291067079714731
+        },
+        {
+          "trait_id": "facet_modesty",
+          "name": "謙虚さ",
+          "category": "personality",
+          "percentile": 0.30033432113193237
+        },
+        {
+          "trait_id": "facet_morality",
+          "name": "強硬さ",
+          "category": "personality",
+          "percentile": 0.8013463436821273
+        },
+        {
+          "trait_id": "facet_sympathy",
+          "name": "共感度",
+          "category": "personality",
+          "percentile": 0.6455304078489494
+        },
+        {
+          "trait_id": "facet_trust",
+          "name": "信用度",
+          "category": "personality",
+          "percentile": 0.99
+        }
+      ]
+    },
+    {
+      "trait_id": "big5_neuroticism",
+      "name": "情緒不安定性",
+      "category": "personality",
+      "percentile": 0.99,
+      "children": [
+        {
+          "trait_id": "facet_anger",
+          "name": "激情的",
+          "category": "personality",
+          "percentile": 0.42854925525139015
+        },
+        {
+          "trait_id": "facet_anxiety",
+          "name": "心配性",
+          "category": "personality",
+          "percentile": 0.07992531454325562
+        },
+        {
+          "trait_id": "facet_depression",
+          "name": "悲観的",
+          "category": "personality",
+          "percentile": 0.1110546260635261
+        },
+        {
+          "trait_id": "facet_immoderation",
+          "name": "利己的",
+          "category": "personality",
+          "percentile": 0.01773677569263619
+        },
+        {
+          "trait_id": "facet_self_consciousness",
+          "name": "自意識過剰",
+          "category": "personality",
+          "percentile": 0.2087222503607791
+        },
+        {
+          "trait_id": "facet_vulnerability",
+          "name": "低ストレス耐性",
+          "category": "personality",
+          "percentile": 0.003555810315273508
+        }
+      ]
+    }
+  ],
+  "needs": [
+    {
+      "trait_id": "need_challenge",
+      "name": "挑戦",
+      "category": "needs",
+      "percentile": 0.3594301488512497
+    },
+    {
+      "trait_id": "need_closeness",
+      "name": "親密",
+      "category": "needs",
+      "percentile": 0.415598398257923
+    },
+    {
+      "trait_id": "need_curiosity",
+      "name": "好奇心",
+      "category": "needs",
+      "percentile": 0.99
+    },
+    {
+      "trait_id": "need_excitement",
+      "name": "興奮",
+      "category": "needs",
+      "percentile": 0.8315689906475987
+    },
+    {
+      "trait_id": "need_harmony",
+      "name": "調和",
+      "category": "needs",
+      "percentile": 0.309720770981535
+    },
+    {
+      "trait_id": "need_ideal",
+      "name": "理想",
+      "category": "needs",
+      "percentile": 0.891123184432126
+    },
+    {
+      "trait_id": "need_liberty",
+      "name": "自由主義",
+      "category": "needs",
+      "percentile": 0.09982290065076894
+    },
+    {
+      "trait_id": "need_love",
+      "name": "社会性",
+      "category": "needs",
+      "percentile": 0.024602245472731453
+    },
+    {
+      "trait_id": "need_practicality",
+      "name": "実用主義",
+      "category": "needs",
+      "percentile": 0.5373375290438112
+    },
+    {
+      "trait_id": "need_self_expression",
+      "name": "自己表現",
+      "category": "needs",
+      "percentile": 0.39525923185945977
+    },
+    {
+      "trait_id": "need_stability",
+      "name": "安定性",
+      "category": "needs",
+      "percentile": 0.2611304629285817
+    },
+    {
+      "trait_id": "need_structure",
+      "name": "仕組",
+      "category": "needs",
+      "percentile": 0.95322962123637
+    }
+  ],
+  "values": [
+    {
+      "trait_id": "value_conservation",
+      "name": "現状維持",
+      "category": "values",
+      "percentile": 0.13835275302110206
+    },
+    {
+      "trait_id": "value_openness_to_change",
+      "name": "変化許容性",
+      "category": "values",
+      "percentile": 0.99
+    },
+    {
+      "trait_id": "value_hedonism",
+      "name": "快楽主義",
+      "category": "values",
+      "percentile": 0.7132887460503681
+    },
+    {
+      "trait_id": "value_self_enhancement",
+      "name": "自己増進",
+      "category": "values",
+      "percentile": 0.6092390264729932
+    },
+    {
+      "trait_id": "value_self_transcendence",
+      "name": "自己超越",
+      "category": "values",
+      "percentile": 0.99
+    }
+  ],
+  "warnings": [
+    {
+      "warning_id": "WORD_COUNT_MESSAGE",
+      "message": "入力されたのは 174 語でした。 統計的に意味のある概算値を計算するためには最低 600 語、1,200 語以上が好ましい語数です"
+    }
+  ]
+}
